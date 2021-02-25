@@ -1,0 +1,5 @@
+openapi: 3.0.0
+info:
+  title: RMS API
+  description: An API for the Rust Media Client (WIP)
+  version: 0.0.1
